@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Generator",
+  "description": "Chuyển đổi đường dẫn URL thành mã QR dễ dàng và nhanh chóng",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
